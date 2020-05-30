@@ -53,6 +53,9 @@ body {
   .twitter {
     background-color: #55acee;
   }
+  .instagram {
+      background-color: deeppink;
+  }
   
   .btn {
     padding: 12px 24px;
@@ -111,7 +114,7 @@ body {
   }
   
   .lesson-wrapper {
-    height: 500px;
+    height: 800px;
     padding-bottom: 80px;
     background-color: #f7f7f7;
     text-align: center;
