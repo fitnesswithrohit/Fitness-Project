@@ -15,8 +15,8 @@ Here you can get the free fitness programs.These programs includes:
   
   ![First Image](/images/s-2.png)
   
-  ![First Image](/images/s-3.png)
+  ![First Image](/images/s-5.png)
   
   ![First Image](/images/s-4.png)
   
-  ![First Image](/images/s-5.png)
+  ![First Image](/images/s-3.png)
